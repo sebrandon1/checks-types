@@ -1,6 +1,7 @@
 module github.com/redhat-best-practices-for-k8s/checks-types
 
 go 1.26.1
+toolchain go1.26.4
 
 require (
 	k8s.io/apimachinery v0.35.3
